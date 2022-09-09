@@ -20,20 +20,18 @@
 
 ## Checked and Approved
 
-1. "Home" page looks fine in different resolutions and browsers. Examples:
+"Home" page looks fine in different resolutions and browsers. Examples:
 
 <table>
-  <tr>
-    <th colspan="2">desktop</th>
-  </tr>
+  <tr><th colspan="2">desktop</th></tr>
   <tr>
     <td>Google Chrome <br><img width="1435" alt="image" src="https://user-images.githubusercontent.com/72879118/189316817-fea6aa84-d1ab-44ad-b4b5-103f7777758a.png">
-</td>
+    </td>
     <td>Mozilla Firefox <br><img width="1435" alt="image" src="https://user-images.githubusercontent.com/72879118/189316883-8905883f-cd9c-4c00-b3b8-8662dac22aff.png">
-</td>
+    </td>
   </tr>
   <tr>
-     <th colspan="2">tablet</th>>
+     <th colspan="2">tablet</th>
   </tr>
   <tr>
     <td>Google Chrome <br><img width="1431" alt="image" src="https://user-images.githubusercontent.com/72879118/189319931-da863455-81e5-4615-aa11-587c16eb523f.png"></td>
